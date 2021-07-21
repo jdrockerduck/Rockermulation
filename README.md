@@ -7,8 +7,8 @@ This product is licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/lice
 
 This product uses the Simple DirectMedia Layer library (SDL). Its source code is available from: https://www.libsdl.org/ </br>The library is distributed under the terms of the zlib license: http://www.zlib.net/zlib_license.html
 
-The application icon by "Those Icons" (https://thoseicons.com/) is licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+The application icon by "Those Icons" (https://thoseicons.com/) is licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/).
 
-The above copyright notice and this license notice shall be included in all copies or substantial portions of the Software.
+The above copyright notice and this license notice shall be included in all copies or substantial portions of the software.
 
 In order to <b>download</b> the emulator, check the [releases](https://github.com/jdrockerduck/Rockermulation/releases) page.
