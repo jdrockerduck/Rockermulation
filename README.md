@@ -1,5 +1,5 @@
 # Rockermulation
-A DMG emulator by rockerduck
+A DMG/CGB emulator by rockerduck
 
 Copyright © 2021 rockerduck. All rights reserved.
 
