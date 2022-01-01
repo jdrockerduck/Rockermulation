@@ -1,7 +1,7 @@
 # Rockermulation
 A DMG/CGB emulator by rockerduck
 
-Copyright © 2021 rockerduck. All rights reserved.
+Copyright © 2021-2022 rockerduck. All rights reserved.
 
 This product is licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/). This does not include the content mentioned below.
 
